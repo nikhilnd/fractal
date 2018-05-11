@@ -1,0 +1,20 @@
+{
+  "name": "fractal",
+  "version": "1.0.0",
+  "description": "Nikhil Deorkar, Z-Block",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fractal",
+    "project"
+  ],
+  "author": "Nikhil Deorkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0"
+  }
+}

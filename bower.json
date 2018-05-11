@@ -1,0 +1,21 @@
+{
+  "name": "fractal",
+  "description": "Nikhil Deorkar, Z-Block",
+  "main": "main.js",
+  "authors": [
+    "Nikhil Deorkar"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "fractal",
+    "project"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
